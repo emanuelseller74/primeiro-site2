@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Cardápio Online</title>
+</head>
+
+<body>
+
+<!-- LOGO -->
+<img src="Desktop/São José Res..jpg" width="600">
+
+<h1>Cardápio Online De São José Rest.</h1>
+
+<h1>Principais Escolhas</h1>
+<h3>Bife A Parmegiana</h3>
+<img src="Desktop/Bife-a-Parmegiana-1-e1751381097619.jpg" width="300">
+
+<h4>Ingredientes:</h4>
+<ul>Bife de Carne
+<li>Alho</li>
+<li>Ovos</li>
+<li>Queijo parmesão Ralado</li>
+<li>Pimenta-do-reino</li>
+<li>Molho de tomate</li>
+<li>Farinha de Rosca</li>
+<li>Farinha de Trigo</li>
+</ul>
+
+<h2>Strogonoff de frango</h2>
+<img src="Desktop/strogonoff-de-frango-receita.jpg" width="300">
+
+<h4>Ingredientes:</h4>
+<ul>
+<li>Peito de frango</li>
+<li>Creme de leite</li>
+<li>Ketchup</li>
+<li>Mostarda</li>
+<li>Cebola</li>
+<li>Batata palha</li>
+<li>Alho</li>
+</ul>
+
+<h2>Arroz, Feijão e Bife</h2>
+<img src="Desktop/chatgpt-image-31-de-mar-de-2025-16_48_48-67eaf1c9340c7.webp" width="300">
+
+<h4>Ingredientes:</h4>
+<ul>
+<li>Arroz</li>
+<li>Feijão</li>
+<li>Bife de Carne</li>
+<li>Alho</li>
+<li>Cebola</li>
+</ul>
+
+<h2>Hambúrguer Artesanal</h2>
+<img src="Desktop/images (1).jpg" width="300">
+
+<h4>Ingredientes:</h4>
+<ul>
+<li>Carne moída</li>
+<li>Pão Brioche</li>
+<li>Queijo</li>
+<li>Alface</li>
+<li>tomate</li>
+<li>Maionese</li>
+</ul>
+
+<h2>Macarrão ao Molho branco</h2>
+<img src="Desktop/images.jpg" width="300">
+
+<h4>Ingredientes:</h4>
+<ul>
+<li>Macarrão</li>
+<li>Leite</li>
+<li>Manteiga</li>
+<li>Farinha de Trigo</li>
+<li>Queijo Ralado</li>
+</ul>
+
+</body>
+</html>
